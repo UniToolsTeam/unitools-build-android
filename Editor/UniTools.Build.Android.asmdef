@@ -1,0 +1,18 @@
+{
+    "name": "UniTools.Build.Android",
+    "rootNamespace": "UniTools.Build.Android",
+    "references": [
+        "GUID:d94495eb8c16444dea063a3605506bac"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
