@@ -25,8 +25,8 @@ Add the following to `Packages/manifest.json` where x.x.x the version (tag) chec
 ```
 {
   "dependencies": {
-    "com.unitools.io": "https://github.com/Rinal/unitools-build.git#x.x.x",
-    "com.unitools.build": "https://github.com/Rinal/unitools-build-android.git#x.x.x",
+    "com.unitools.io": "https://github.com/UniToolsTeam/unitools-build.git#x.x.x",
+    "com.unitools.build": "https://github.com/UniToolsTeam/unitools-build-android.git#x.x.x",
     "...": "..."
   }
 }
