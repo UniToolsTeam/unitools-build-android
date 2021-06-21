@@ -7,7 +7,7 @@ This packages helps to add Android build and distribution functionality in the b
 - Setup keystore
 
 # Dependencies
-- [UniTools IO](https://github.com/Rinal/unitools-io)
+- [UniTools Build](https://github.com/UniToolsTeam/unitools-build)
 
 # Installation
 
@@ -18,15 +18,15 @@ This packages helps to add Android build and distribution functionality in the b
 
 > You will need to have git installed and set in your system PATH.
 
-> Check package [dependencies](https://github.com/Rinal/unitools-build/blob/master/package.json)
+> Check package [dependencies](https://github.com/UniToolsTeam/unitools-build/blob/master/package.json)
 
 Add the following to `Packages/manifest.json` where x.x.x the version (tag) check [Latest Releases](../../releases/latest):
 
 ```
 {
   "dependencies": {
-    "com.unitools.io": "https://github.com/Rinal/unitools-io.git#x.x.x",
-    "com.unitools.build": "https://github.com/Rinal/unitools-build-android.git#x.x.x",
+    "com.unitools.io": "https://github.com/UniToolsTeam/unitools-build.git#x.x.x",
+    "com.unitools.build": "https://github.com/UniToolsTeam/unitools-build-android.git#x.x.x",
     "...": "..."
   }
 }
